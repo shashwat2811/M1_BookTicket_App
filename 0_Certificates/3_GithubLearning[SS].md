@@ -1,0 +1,1 @@
+![Screenshot of Github Learning Lab Course Completion](2022-02-05-23-40-11.png)
