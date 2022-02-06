@@ -1,4 +1,3 @@
-## Capture all the requirements wrt system, module, interface, integration, testing, functional and non-functional
 # **Requirements**
 ## **Introduction**
 A Calculator is a small (often pocket-sized), usually inexpensive electronic device used to perform the basic operations of arithmetic. This project presents the development of a software-based scientific calculator using Visual Studio Code which includes various operations from as basic as addition to as advanced as truth tables for logic gates.
