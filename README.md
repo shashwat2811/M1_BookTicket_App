@@ -1,4 +1,4 @@
-# M1_BookTicket_App
+# M1_ScientificCalculator_Utility
 Mini Project for Project Based C Learning 
 
 ## Folder Structure
