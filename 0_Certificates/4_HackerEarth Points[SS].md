@@ -1,1 +1,1 @@
-![Screenshot of HackerEarth 100 Points Completion](2022-02-05-23-48-02.png)
+![Screenshot of HackerEarth 1000 Points Completion](2022-02-10-17-28-15.png)
