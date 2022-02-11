@@ -16,6 +16,6 @@ jobs:
     - name: Install
       run: sudo apt-get install valgrind
     - name: make
-      run: make Run -C 3_Implementation/calculator.c/
+      run: make Run -C 3_Implementation/calculator.c
     - name: Dynamic Analysis
       run: valgrind ./calculator.exe
