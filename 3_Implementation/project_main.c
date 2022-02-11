@@ -1,8 +1,9 @@
 #include "calculator.h"
-
+extern void test_main();
 int main ()
 
 {
+    #if 0
     int clustop_choice, choice;
     char next_action = ' ';
 
@@ -94,5 +95,8 @@ int main ()
     case 6:
         exit(0);
     }
+    #else
+    test_main();
+    #endif
     return 0;
 }

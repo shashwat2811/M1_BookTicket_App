@@ -12,8 +12,8 @@ else
    endif
 endif
 
-Build: project_main.c calculator.c
-	gcc project_main.c calculator.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
+Build: project_main.c calculator.c test_calculator.c unity.c
+	gcc project_main.c calculator.c test_calculator.c unity.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
 
 Run: Build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
