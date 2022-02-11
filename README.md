@@ -12,3 +12,7 @@ Mini Project for Project Based C Learning
 | 5_Report            | Documented report                                                                                               |
 | 6_ImagesAndVideos   | Images and videos showcasing project outputs                                                                    |
 | 7_Other             | References                                                                                                      |
+
+## Build
+[![Build](https://github.com/shashwat2811/M1_ScientificCalc_Utility/actions/workflows/Build.yml/badge.svg)](https://github.com/shashwat2811/M1_ScientificCalc_Utility/actions/workflows/Build.yml)
+  - Note: Not able to perform make action because <conio.h> directory was not found.
