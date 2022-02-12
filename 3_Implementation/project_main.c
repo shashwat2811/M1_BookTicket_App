@@ -79,7 +79,7 @@ int main ()
 
     case 5:
         system("cls");
-        printf("\n Truth Tabkes of Logic Gates\n");
+        printf("\n Truth Tables of Logic Gates\n");
         printf("\n \nEnter 1 to print the truth table of AND Gate\nEnter 2 to print truth table of OR Gate\nEnter 3 to print truth table of NOT Gate\n");
         printf("Enter your choice  ");
         scanf("%d", &choice);

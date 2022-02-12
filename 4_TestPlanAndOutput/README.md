@@ -1,1 +1,33 @@
-## Details of test plans and procedure
+# **Test Plan:**
+## **High Level Test Plan**
+| Test ID | Description                                                                                  | Exp I/P                                              | Exp O/P                                                         | Status  |
+| :-----: | :------------------------------------------------------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------------------- | :-----: |
+|  HLT01  | Checking all the options are executing properly                                              | By choosing 1,2,...,10 for the required operation    | All the modes of operation are executed correctly               | Success |
+|  HLT02  | Checking whether all the operations are performed according to the selection in each options | By choosing the number corresponding to the function | All the functions are executed and obtained the correct results | Success |
+
+## **Low Level Test Plan**
+| Test ID | Description                               | Exp I/P                                                                                              | Exp O/P                                                 | Status  |
+| :-----: | :---------------------------------------- | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :-----: |
+|  LLT01  | Sum of two or more numbers                | One number of fed followed by a '+'. To get final sum '=' has to be pressed                          | Output is received with a precision of 3 decimal points | Success |
+|  LLT02  | Difference of two or more numbers         | One number of fed followed by a '-'. To get final difference '=' has to be pressed                   | Output is received with a precision of 3 decimal points | Success |
+|  LLT03  | Multiplication of two or more numbers     | One number of fed followed by a '*'. To get final product '=' has to be pressed                      | Output is received with a precision of 3 decimal points | Success |
+|  LLT04  | Division of two or more numbers           | One number of fed followed by a '/'. To get final result '=' has to be pressed                       | Output is received with a precision of 3 decimal points | Success |
+|  LLT05  | Power of number                           | Two numbers are fed, one for base and other for power                                                | Output is received with a precision of 3 decimal points | Success |
+|  LLT06  | Square root of number                     | Enter a number                                                                                       | Output is received with a precision of 3 decimal points | Success |
+|  LLT07  | Factorial of number                       | Enter a number                                                                                       | Integer output is received                              | Success |
+|  LLT08  | Sine of an angle                          | Feed in an angle and number of iterations                                                            | Output is received with a precision of 3 decimal points | Success |
+|  LLT09  | Cosine of an angle                        | Feed in an angle and number of iterations                                                            | Output is received with a precision of 3 decimal points | Success |
+|  LLT10  | Tangent of an angle                       | Feed in an angle                                                                                     | Output is received with a precision of 3 decimal points | Success |
+|  LLT11  | Conversion of binary to decimal           | Enter a binary number                                                                                | Output is a decimal number                              | Success |
+|  LLT12  | Conversion of decimal to binary           | Enter a decimal number                                                                               | Output is a binary number                               | Success |
+|  LLT13  | Conversion of octal to decimal            | Enter a octal number                                                                                 | Output is a decimal number                              | Success |
+|  LLT14  | Conversion of decimal to octal            | Enter a decimal number                                                                               | Output is an octal number                               | Success |
+|  LLT15  | Conversion of hexadecimal to decimal      | Enter a hexadecimal number                                                                           | Output is a decimal number                              | Success |
+|  LLT16  | Conversion of decimal to hexadecimal      | Enter a decimal number                                                                               | Output is a hexadecimal number                          | Success |
+|  LLT17  | To perform One's Complement               | Enter number of bits and then the binary number for which the user needs to find one's complement of | Output is as expected. For eg: For 1001, result is 0110 | Success |
+|  LLT18  | To perform Two's complement               | Enter number of bits and then the binary number for which the user needs to find two's complement of | Output is as expected. For eg: For 1001, result is 0111 | Success |
+|  LLT19  | To perform binary to gray code conversion | Enter a binary number                                                                                | Output is a gray code converted number                  | Success |
+|  LLT20  | To perform gray code to binary conversion | Enter a gray code number                                                                             | Output is a binary number                               | Success |
+|  LLT21  | Truth table of AND gate                   | Enter choice 1                                                                                       | Output is truth table of AND Gate                       | Success |
+|  LLT22  | Truth table of OR gate                    | Enter choice 2                                                                                       | Output is truth table of OR Gate                        | Success |
+|  LLT23  | Truth table of NOT gate                   | Enter choice 3                                                                                       | Output is truth table of NOT Gate                       | Success |

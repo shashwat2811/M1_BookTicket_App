@@ -29,13 +29,13 @@ A Calculator is a small (often pocket-sized), usually inexpensive electronic dev
 | :--: | :----------------------------------------------------- | :---------: |
 | HR01 | Arithmetic Operations for two or more numbers          | Implemented |
 | HR02 | Power, square root and factorial                       | Implemented |
-| HR03 | Trigonometric fucntions                                | Implemented |
+| HR03 | Trigonometric functions                                | Implemented |
 | HR04 | Basics formaulations and logics of digital electronics | Implemented |
 | HR05 | Implementation using C Language                        | Implemented |
-| HR06 | Should be user-friendly                                | Implemented |
+| HR06 | User-friendly                                          | Implemented |
 
 ## **Low Level Requirements**
 |  ID  | Description                                                                                                              | HRID |   Status    |
 | :--: | :----------------------------------------------------------------------------------------------------------------------- | :--: | :---------: |
 | LR01 | For each set of numbers the arthimetic operations are performed and exact output is retrieved                            | HR05 | Implemented |
-| LR02 | The user can perform as many operations as needed untill they require and exit once they are done with the calculations. | HR01 | Implemented |
+| LR02 | The user can perform arithmetic operations on more than two numbers as well exit once they are done with the calculations. | HR01 | Implemented |
