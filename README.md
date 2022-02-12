@@ -23,7 +23,9 @@ Mini Project for Project Based C Learning
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8684593410604ff78f3617064c28965b)](https://www.codacy.com/gh/shashwat2811/M1_ScientificCalc_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shashwat2811/M1_ScientificCalc_Utility&amp;utm_campaign=Badge_Grade)
 
 ## Code Quality - Codiga
-[Codiga Badge](https://api.codiga.io/project/31187/status/svg)
+![Codiga Badge](https://user-images.githubusercontent.com/85784916/153700932-a3f1de4e-dc5c-4bf6-9e87-5f334f10bc30.png)
+
 
 ## Code Score - Codiga
-[Codiga Score](https://api.codiga.io/project/31187/score/svg)
+![Codiga Score](https://user-images.githubusercontent.com/85784916/153700961-e5e785d9-ea7b-4bbf-9eb6-45d7e57aa0f0.png)
+
