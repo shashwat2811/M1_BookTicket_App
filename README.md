@@ -15,8 +15,7 @@ Mini Project for Project Based C Learning
 
 ## Build
 [![Build](https://github.com/shashwat2811/M1_ScientificCalc_Utility/actions/workflows/Build.yml/badge.svg)](https://github.com/shashwat2811/M1_ScientificCalc_Utility/actions/workflows/Build.yml)
-  - Note: Not able to perform make action because <conio.h> directory was not found.
-
+ 
 ## Static Check
 [![Cppcheck](https://github.com/shashwat2811/M1_ScientificCalc_Utility/actions/workflows/Static-Check.yml/badge.svg)](https://github.com/shashwat2811/M1_ScientificCalc_Utility/actions/workflows/Static-Check.yml)
 
