@@ -58,7 +58,7 @@ void menu_display()
 void add()
 {
     float sum=0,i;
-    char a;
+    char a[10]="";
     while(a!= '=')
     {
         printf("Enter Number:");
@@ -74,7 +74,7 @@ void add()
 void sub()
 {
     float diff,i;
-    char a;
+    char a[10]="";
     printf("Enter Number to subtract from:");
     scanf("%f",&diff);
     while(a!= '=')
@@ -92,7 +92,7 @@ void sub()
 void mult()
 {
     float mu=1,i;
-    char a;
+    char a[10]="";
     while(a!= '=')
     {
         printf("Enter Number:");
@@ -108,7 +108,7 @@ void mult()
 void di()
 {
     float di,i;
-    char a;
+    char a[10]="";
     printf("Enter Dividend:");
     scanf("%f",&di);
     while(a!= '=')
